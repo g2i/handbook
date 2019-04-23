@@ -1,9 +1,9 @@
 # Performance Plan Process
 
-We don't want any of our employees to feel unclear on where they stand, should they find themselves in need of improving their performance. So below are the steps we commit to taking at Basecamp when your manager identifies a problem with your performance that must be addressed. 
+We don't want any of our employees to feel unclear on where they stand, should they find themselves in need of improving their performance. So below are the steps we commit to taking at G2i when your manager identifies a problem with your performance that must be addressed. 
 
 ## STEP ONE: Identify the problem (ALERT)
-Your manager will identify a productivity or disciplinary problem as soon as possible after it occurs. Your bi-yearly performance reviews may be helpful in identifying a problem, but managers shouldn't wait for those reviews to raise a problem with you. 
+Your manager will identify a productivity or disciplinary problem as soon as possible after it occurs. Your monthly performance reviews may be helpful in identifying a problem, but managers shouldn't wait for those reviews to raise a problem with you. 
 
 Your manager will have a conversation with you first. The idea is for you and your manager to openly and honestly address what went wrong and why. Your manager will approach the conversation with curiosity, not frustration! This is the first time something's gone wrong, so you and your manager should work together to address it and move past it. Your manager's complaint may be detailed or a general sense of something being off. During this initial conversation, you and your manager should make a plan for how you can course correct and show your work towards that end. 
 
@@ -16,7 +16,7 @@ The manager should document this initial conversation. Documenting what was said
 3) the timeline
 4) the deadline for the next evaluation
 
-Managers can document this initial conversation and any subsequent conversations in a Google Doc which can be shared within the company as necessary. Your manager should also be clear to you the employee that they're recording these items. Making you aware of that isn't meant to feel like a strike against you! It's meant to create transparency in the process of improving this aspect of your performance. Everyone on the same page, same goals and timelines, and awareness of the severity of the problem.    
+Managers can document this initial conversation and any subsequent conversations in Notion which can be shared within the company as necessary. Your manager should also be clear to you the employee that they're recording these items. Making you aware of that isn't meant to feel like a strike against you! It's meant to create transparency in the process of improving this aspect of your performance. Everyone on the same page, same goals and timelines, and awareness of the severity of the problem.    
 
 ## STEP THREE: Revisit on deadline (TRIAGE)
 When you and your manager first spoke, they gave you a deadline for correcting the problem behavior. At that time your manager and you should have another conversation about whether or not they're seeing the improvement they want to see. In this second conversation, your manager should address the initial problem and if you've adequately taken the steps you discussed to improve your performance within the timeline you agreed to. 
@@ -37,23 +37,23 @@ When the deadline from your previous conversation approaches, your manager will 
 
 If your manager feels your performance is back on track, that's the end of this process! The documentation of this process will remain logged for future reference, and your manager should add a note indicating they're happy with your improvement at this stage. Case closed! 
 
-If your manager feels your performance is not where it should be, this final conversation will be about whether or not Basecamp remains a good fit for you. 
+If your manager feels your performance is not where it should be, this final conversation will be about whether or not G2i remains a good fit for you. 
 
-> Manager: It's been another six weeks since we talked about jobs slipping through the cracks and your lack of responsiveness. You committed to making progress on your kickoff plans, answering daily check-in questions, and having zero dropped assignments. All of these things are still not where you said they would be after now a total of 10 weeks since we first talked about this problem. We have to talk about your future at Basecamp now. You don't seem to be able to manage your work after repeated warnings. 
+> Manager: It's been another six weeks since we talked about jobs slipping through the cracks and your lack of responsiveness. You committed to making progress on your kickoff plans, answering daily check-in questions, and having zero dropped assignments. All of these things are still not where you said they would be after now a total of 10 weeks since we first talked about this problem. We have to talk about your future at G2i now. You don't seem to be able to manage your work after repeated warnings. 
 
 ## STEP SIX: Document
 At this final stage, your manager will add more notes about your most recent talk, and they'll detail why they were or were not convinced of your progress. If you've been terminated, that will be noted in the documentation. 
 
 If you haven't been terminated and your manager is happy with your progress, they still may add a contingency plan to the documentation (e.g. "I'm happy with Employee's progress at the moment, but if something similar happens again in the next 12 months, they move immediately to STEP THREE"). You the employee will again be made aware of what your manager is documenting. 
 
-Whatever the final outcome of your case, your entire final Google Doc outlining your progress will be moved into Basecamp as part of your employee record. 
+Whatever the final outcome of your case, your entire final Notion page outlining your progress will stand as part of your employee record. 
 
 ## What's the biggest, most important detail missing from everything above?
 _Support._
 
-The examples given above don't illustrate the level of care and support Basecamp is able to give to you before and during this process. We know lots of stuff comes into play when it comes to work performance. If you're having personal or professional issues that are impeding how you're working, please tell us! Tell your manager, tell Andrea, tell Jason or David, tell someone who has the resources to help. This process is not hard and fast, and it's not three strikes and you're out. The examples above are very convenient (almost... fake!), and real-life is never so perfectly scripted. 
+The examples given above don't illustrate the level of care and support G2i is able to give to you before and during this process. We know lots of stuff comes into play when it comes to work performance. If you're having personal or professional issues that are impeding how you're working, please tell us! Tell your manager, tell Chris, tell Stephen, tell Lee or Gabe, tell someone who has the resources to help. This process is not hard and fast, and it's not three strikes and you're out. The examples above are very convenient (almost... fake!), and real-life is never so perfectly scripted. 
 
-We can and have worked with lots of employees to help them manage their workload so they can remain at Basecamp to do their best work. We're not in the game of high turnover. We care about everyone who works here and if you're having performance issues, our first reaction is to help you, not shove you onto a formal performance plan. We only ask that you work with us to devise a realistic improvement plan that elevates you and works for Basecamp.
+We can and have worked with lots of employees to help them manage their workload so they can remain at G2i to do their best work. We're not in the game of high turnover. We care about everyone who works here and if you're having performance issues, our first reaction is to help you, not shove you onto a formal performance plan. We only ask that you work with us to devise a realistic improvement plan that elevates you and works for G2i.
 
 To recap, there are 3 steps for you the employee to be concerned about if you're facing a problem with your performance:
 - First conversation: alert 
@@ -61,4 +61,4 @@ To recap, there are 3 steps for you the employee to be concerned about if you're
 - Final conversation: critical
 
 ## Exceptions
-The process outlined above is for employees who are dealing with manageable performance or disciplinary issues. If an employee is negligent in their duties or commits fraud or insubordination to the point that a performance plan won't serve Basecamp or the employee, we retain the right to immediately terminate at-will as stated in our employment contracts. Basecamp also retains the right to bypass steps outlined above if the severity of performance problems warrants that. In either of these cases, the reasoning will be spelled out in detail to the employee prior to termination.
+The process outlined above is for employees who are dealing with manageable performance or disciplinary issues. If an employee is negligent in their duties or commits fraud or insubordination to the point that a performance plan won't serve G2i or the employee, we retain the right to immediately terminate at-will as stated in our employment contracts. G2i also retains the right to bypass steps outlined above if the severity of performance problems warrants that. In either of these cases, the reasoning will be spelled out in detail to the employee prior to termination.
